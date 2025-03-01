@@ -42,7 +42,7 @@ Im currently studying<br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" height="40" alt="photoshop logo"  />
   <img width="12" />
